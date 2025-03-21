@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ByteBankIO
 {
-    public class LidandoComFileStreamDiretamente
+    public class UsandoFileStream
     {
 
         static void LidandoComFileStream()
